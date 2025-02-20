@@ -18,6 +18,9 @@ public class DTB {
         System.out.println("\nThông tin sinh viên:");
         System.out.println("Họ và tên: " + fullName);
         System.out.println("Điểm trung bình: " + diemTP);
+        
+        // Dong scanner
+        banPhim.close();
 
 	}
 
